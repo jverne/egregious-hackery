@@ -3,7 +3,7 @@ This is a remote repository for egregious hackery with Git where I try out diffe
 
 This is a completely _useless_ and unnecessary repository. You **shouldn't** be reading this.
 
-Why are still here? Go home.
+Why are you still here? Go home.
 
 ## Notes
 - There is nothing to see here
